@@ -2,6 +2,7 @@
 
 | Title        | Description           | Repository  |
 | ------------- |-------------| -----|
+| fun-bots        | Bots for Battlefield 3 / Venice Unleashed | [/Joe91/fun-bots](https://github.com/Joe91/fun-bots)   |
 | matcherball      | 3D Multiplayer Game | :lock: [/Bizarrus/matcherball](https://github.com/Bizarrus/matcherball) |
 | coldbite      | 3D Game-Engine in `C#` with `OpenGL`, `DirectX 10/11/12` and `Vulkan` support      |             [/coldbite/Engine](https://github.com/coldbite/Engine) |
 | ColdEd      | Editor for the 3D Game-Engine `coldbite`      |   [/coldbite/ColdEd](https://github.com/coldbite/ColdEd) |
