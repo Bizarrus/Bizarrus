@@ -7,7 +7,7 @@
 | coldbite      | 3D Game-Engine in `C#` with `OpenGL`, `DirectX 10/11/12` and `Vulkan` support      |             [/coldbite/Engine](https://github.com/coldbite/Engine) |
 | ColdEd      | Editor for the 3D Game-Engine `coldbite`      |   [/coldbite/ColdEd](https://github.com/coldbite/ColdEd) |
 | ~~Knuddels-Billard~~ | Billard Game for Knuddels.de Community (UserApps based), development stop    | :lock: [/Bizarrus/Knuddels-Billard]
-| FotoMeet | An single and flirt plattform for Knuddels.de Community (UserApps based)   | :lock: [/Bizarrus/FotoMeet](https://github.com/Bizarrus/FotoMeet) |
+| FotoFlirt | An single and flirt plattform for Knuddels.de Community (UserApps based)   | :lock: [/Bizarrus/FotoFlirt](https://github.com/Bizarrus/FotoFlirt) |
 
 ### [**Technologies & Skills**]()
 `PHP`, `C#`, `CSS`, `HTML`, `Java`, `Node.js`, `JavaScript`, `Objective-C`, `SASS / SCSS`, `Shell Scripting (Linux)`, `SQL`, `nginx`, `Adobe Photoshop`, `WordPress`, `MySQL`, `.NET`, `JSON`, `Git`, `jQuery`, `Electron`, `React`, `React Native`, `Laravel`
