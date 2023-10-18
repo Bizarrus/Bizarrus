@@ -8,6 +8,7 @@
 | ColdEd      | Editor for the 3D Game-Engine `coldbite`      |   [/coldbite/ColdEd](https://github.com/coldbite/ColdEd) |
 | ~~Knuddels-Billard~~ | Billard Game for Knuddels.de Community (UserApps based), development stop    | :lock: [/Bizarrus/Knuddels-Billard]
 | FotoFlirt | An single and flirt plattform for Knuddels.de Community (UserApps based)   | :lock: [/Bizarrus/FotoFlirt](https://github.com/Bizarrus/FotoFlirt) |
+| FRED | `Fritz!Box` Config-Editor   | [/FritzTools/FRED](https://github.com/FritzTools/FRED) |
 
 ### [**Technologies & Skills**]()
 `PHP`, `C#`, `CSS`, `HTML`, `Java`, `Node.js`, `JavaScript`, `Objective-C`, `SASS / SCSS`, `Shell Scripting (Linux)`, `SQL`, `nginx`, `Adobe Photoshop`, `WordPress`, `MySQL`, `.NET`, `JSON`, `Git`, `jQuery`, `Electron`, `React`, `React Native`, `Laravel`
