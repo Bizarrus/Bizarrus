@@ -4,8 +4,8 @@
 | ------------- |-------------| -----|
 | ![](https://raw.githubusercontent.com/fruithost/Documentation/main/Images/LOGO_TEXT.png) fruithost | `fruithost` OpenSource Webhosting-Panel - [www.fruithost.de](https://fruithost.de)   | [/fruithost](https://github.com/fruithost) |
 | ![](https://raw.githubusercontent.com/Bizarrus/Hive/refs/heads/main/images/icons/16.png) Hive | Check AI generated Images with `Hive-AI` **without** a Browser-Plugin. - [bizarrus.github.io/Hive](https://bizarrus.github.io/Hive/) | [/Hive](https://github.com/Bizarrus/Hive) |
-| fun-bots        | Bots for Battlefield 3 / Venice Unleashed | [/Joe91/fun-bots](https://github.com/Joe91/fun-bots)   |
 | | **No longer maintained**  |  |
+| fun-bots        | Bots for Battlefield 3 / Venice Unleashed | [/Joe91/fun-bots](https://github.com/Joe91/fun-bots)   |
 | ~~FRED~~ | `Fritz!Box` Config-Editor   | [/FritzTools/FRED](https://github.com/FritzTools/FRED) |
 | ~~matcherball~~      | 3D Multiplayer Game, development stop | :lock: [/Bizarrus/matcherball](https://github.com/Bizarrus/matcherball) |
 | ~~coldbite~~      | 3D Game-Engine in `C#` with `OpenGL`, `DirectX 10/11/12` and `Vulkan` support, development stop      |             [/coldbite/Engine](https://github.com/coldbite/Engine) |
