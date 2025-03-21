@@ -18,6 +18,14 @@
 
 `PHP`, `C#`, `CSS`, `HTML`, `Java`, `Node.js`, `JavaScript`, `Objective-C`, `SASS / SCSS`, `Shell Scripting (Linux)`, `SQL`, `nginx`, `Adobe Photoshop`, `WordPress`, `MySQL`, `.NET`, `JSON`, `Git`, `jQuery`, `Electron`, `React`, `React Native`, `Laravel`
 
+# Support me!
+Donations are an important contribution to the development of OpenSource projects. With your donation you can help me to advance all projects. Your support enables me to support my programming time.
+
+Be a team-player, all feedbacks of my donations will have the priority. I will build this for **YOU**!
+
+[![PAYPAL]](https://paypal.me/debitdirect)
+
+[PAYPAL]: https://img.shields.io/badge/PayPal-%24?style=for-the-badge&logo=paypal&color=%23169BD7
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Bizarrus&theme=github_dark&show_icons=true&count_private=true#gh-dark-mode-only">
