@@ -2,6 +2,7 @@
 | Title | Description | Repository |
 | ------------- | ------------- | ------------- |
 | ![](https://raw.githubusercontent.com/Bizarrus/Hive/refs/heads/main/images/icons/16.png) Hive | Check AI generated Images with `Hive-AI` **without** a Browser-Plugin. - [bizarrus.github.io/Hive](https://bizarrus.github.io/Hive/) | [/Hive](https://github.com/Bizarrus/Hive) |
+| ![](https://raw.githubusercontent.com/Bizarrus/AlfaDNS/refs/heads/main/Docs/alfahosting.png) AlfaDNS | Helper class for the Alfahosting DNS to automatically read/write nameserver entries for domains. | [/AlfaDNS](https://github.com/Bizarrus/AlfaDNS) |
 
 ### [**No longer maintained**]()
 | Title | Description | Repository |
