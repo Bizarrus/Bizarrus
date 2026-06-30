@@ -3,7 +3,7 @@
 | ------------- | ------------- | ------------- |
 | ![](https://raw.githubusercontent.com/Bizarrus/Hive/refs/heads/main/images/icons/16.png) Hive | Check AI generated Images with `Hive-AI` **without** a Browser-Plugin. - [bizarrus.github.io/Hive](https://bizarrus.github.io/Hive/) | [/Hive](https://github.com/Bizarrus/Hive) |
 | ![](https://raw.githubusercontent.com/Bizarrus/AlfaDNS/refs/heads/main/Docs/alfahosting.png) AlfaDNS | Helper class for the `Alfahosting DNS` to automatically read/write nameserver entries for domains. | [/AlfaDNS](https://github.com/Bizarrus/AlfaDNS) |
-| ![](https://avatars.githubusercontent.com/u/192226661?s=12&v=4) Mein-Chatrserver | Service to create your own Chatserver. | [Mein-Chatserver.de](https://mein-chatserver.de) |
+| ![](https://avatars.githubusercontent.com/u/192226661?s=12&v=4) Mein-Chatserver | Service to create your own Chatserver. | [Mein-Chatserver.de](https://mein-chatserver.de) |
 
 ### [**No longer maintained**]()
 | Title | Description | Repository |
